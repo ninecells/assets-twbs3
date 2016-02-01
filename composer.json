@@ -6,7 +6,7 @@
   },
   "autoload": {
     "psr-4": {
-      "NineCells\\Assets\\Twbs3": ""
+      "NineCells\\Assets\\Twbs3\\": ""
     }
   },
   "minimum-stability": "dev"
